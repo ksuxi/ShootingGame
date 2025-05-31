@@ -19,7 +19,7 @@ class Game
     private List<SpriteComponent> mSprites = new List<SpriteComponent>();
     private Ship mShip;
     private List<Enemy> mEnemies = new List<Enemy>();
-    private string AssetsPath = "C:\\Users\\skp02\\source\\repos\\ShootingGame1\\ShootingGame1\\Assets\\";
+    private string AssetsPath = "Assets\\";
     private Scene mScene;
     private Scene mNextScene;
     public Game()
